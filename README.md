@@ -2,7 +2,5 @@
 
 [codelab](https://docs.flutter.dev/get-started/codelab)
 
-## Google Course
-
 
 
